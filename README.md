@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shwetal Soni</h1>
-<h3 align="center">A passionate frontend developer and UI/UX Designer from India</h3>
+<h1 align="leftr">Hi 👋, I'm Shwetal Soni</h1>
+<h4 align="left">UI/UX Designer || Frontend Developer</h4>
 
 - 🔭 I’m currently working on [VaxxDoc](https://github.com/shwetalsoni/VaxxDoc)
 
