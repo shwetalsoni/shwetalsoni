@@ -10,13 +10,6 @@
 - 💬 Ask me about **Frontend Development, UI/UX Design**
 - 🌱 I’m currently learning **Competitive Programming and React.js**
 
-**Connect With Me:** 
-<p align="left">
-<a href="https://linkedin.com/in/shwetal-soni-329753199" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shwetal-soni-329753199" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shwetal_19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shwetal_19" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shwetal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="shwetal" height="30" width="40" /></a>
-</p>
-
 
 
 **🛠 Skills and Tools:** \
@@ -36,9 +29,13 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwetalsoni&include_all_commits=true&show_icons=true&count_private=true&locale=en&theme=algolia" alt="shwetalsoni" /></p>
 
-**⚙️ Visitors Count:**
-<br>
-![Visitor Count](https://profile-counter.glitch.me/{shwetalsoni}/count.svg)
+### 🤝🏻 &nbsp;Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/shwetal-soni-329753199" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shwetal-soni-329753199" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shwetal_19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shwetal_19" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/shwetal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="shwetal" height="30" width="40" /></a>
+</p>
+
 
 
 
