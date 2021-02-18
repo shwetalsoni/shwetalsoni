@@ -10,7 +10,7 @@
 - 💬 Ask me about **Frontend Development, UI/UX Design**
 - 🌱 I’m currently learning **Competitive Programming and React.js**
 
-
+<br>
 
 **🛠 Skills and Tools:** \
 <br>
