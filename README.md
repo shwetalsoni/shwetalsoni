@@ -6,7 +6,7 @@
 <h2> Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-- 🔭 I’m currently working on [VaxxDoc](https://github.com/shwetalsoni/VaxxDoc)
+
 - 💬 Ask me about **Frontend Development, UI/UX Design**
 - 🌱 I’m currently learning **Competitive Programming and React.js**
 
