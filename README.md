@@ -1,7 +1,7 @@
 <h1 align="leftr">Hi 👋, I'm Shwetal Soni</h1>
 <h3>Smart Contract Developer | UI/UX Designer | Technical Writer</h3>
-<br>
-<hr />
+
+<!-- <hr /> -->
 
 <!-- <h2> Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
@@ -10,7 +10,7 @@
 - 💬 Ask me about **Frontend Development, UI/UX Design**
 - 🌱 I’m currently learning **DeFi**
  -->
-<br>
+
 
 <!-- **🛠 Skills and Tools:** \
 <br>
