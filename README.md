@@ -1,5 +1,5 @@
 <h1 align="leftr">Hi 👋, I'm Shwetal Soni</h1>
-<h3>Smart Contract Developer | UI/UX Designer | Technical Writer</h3>
+<h3>Smart Contract Developer | Python developer | UI/UX Designer | Technical Writer</h3>
 
 <!-- <hr /> -->
 
